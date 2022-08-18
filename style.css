@@ -1,18 +1,7 @@
 img{
-    border: 5px solid blue;
+    width: 300px;
 }
 
-div#square-1{
-    border: 2px solid black; 
-    background-color: red;
-    width: 100px;
-    height: 100px;   
-}
-
-div#circle-1{
-   border:2px solid blue;
-   background-color: yellow;
-   width: 30px;
-   height: 30px;
-   border-radius: 50%;
+div{
+    text-align: center;
 }
